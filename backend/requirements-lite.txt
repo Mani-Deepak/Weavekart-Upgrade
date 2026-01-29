@@ -1,0 +1,20 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+python-dotenv>=0.19.0
+opencv-python-headless>=4.5.0 # Use headless for server environments
+numpy>=1.21.0
+pandas>=1.3.0
+deepface>=0.0.79
+tf-keras>=2.15.0
+tensorflow-cpu>=2.15.0 # Use CPU version for smaller size
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+# diffusers>=0.25.0 REMOVED FOR LITE
+# transformers>=4.36.0 KEPT AS DEP OF SENTENCE-TRANSFORMERS BUT MAYBE OPTIONAL?
+# accelerate>=0.26.0 REMOVED FOR LITE
+# controlnet-aux>=0.0.7 REMOVED FOR LITE
+# mediapipe REMOVED IF NOT USED BY DEEPFACE DIRECTLY (Used by face analysis?)
+# torch>=2.1.0 REMOVED FOR LITE

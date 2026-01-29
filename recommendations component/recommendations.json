@@ -1,0 +1,252 @@
+[
+  {
+    "gender": "Female",
+    "weaver_name": "GramVastra",
+    "suitable_body_types": "pear",
+    "fabric": "khadi",
+    "colors": "black,blue",
+    "rating": 4.7,
+    "category": "Gown",
+    "places": "indoor",
+    "name": "Outfit 2",
+    "product_id": "D102",
+    "price": 3201,
+    "origin": "Pochampally",
+    "styles": "minimal,elegant",
+    "seasons": "autumn",
+    "semantic_text": "minimal,elegant gown made of khadi suitable for vacation,travel during autumn season from Pochampally.",
+    "suitable_skin_tones": "light",
+    "occasions": "vacation,travel",
+    "matching_percentage": 57.97,
+    "raw_distance": 0.8406,
+    "extracted_attributes": {
+      "suitable_body_types": [
+        "pear"
+      ],
+      "suitable_skin_tones": [
+        "olive"
+      ],
+      "occasions": [
+        "wedding"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "places": [
+        "beach"
+      ],
+      "styles": [
+        "boho"
+      ],
+      "fabric": [
+        "linen",
+        "cotton"
+      ],
+      "colors": [
+        "black",
+        "yellow",
+        "teal"
+      ]
+    }
+  },
+  {
+    "category": "Gown",
+    "seasons": "autumn",
+    "weaver_name": "GramVastra",
+    "rating": 4.7,
+    "semantic_text": "minimal,elegant gown made of khadi suitable for vacation,travel during autumn season from Pochampally.",
+    "occasions": "vacation,travel",
+    "origin": "Pochampally",
+    "colors": "black,blue",
+    "suitable_body_types": "pear",
+    "name": "Outfit 2",
+    "product_id": "D102",
+    "places": "indoor",
+    "gender": "Female",
+    "price": 3201,
+    "suitable_skin_tones": "light",
+    "fabric": "khadi",
+    "styles": "minimal,elegant",
+    "matching_percentage": 57.97,
+    "raw_distance": 0.8406,
+    "extracted_attributes": {
+      "suitable_body_types": [
+        "pear"
+      ],
+      "suitable_skin_tones": [
+        "olive"
+      ],
+      "occasions": [
+        "wedding"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "places": [
+        "beach"
+      ],
+      "styles": [
+        "boho"
+      ],
+      "fabric": [
+        "linen",
+        "cotton"
+      ],
+      "colors": [
+        "black",
+        "yellow",
+        "teal"
+      ]
+    }
+  },
+  {
+    "seasons": "autumn",
+    "price": 3201,
+    "name": "Outfit 2",
+    "places": "indoor",
+    "styles": "minimal,elegant",
+    "gender": "Female",
+    "colors": "black,blue",
+    "suitable_body_types": "pear",
+    "origin": "Pochampally",
+    "category": "Gown",
+    "suitable_skin_tones": "light",
+    "fabric": "khadi",
+    "semantic_text": "minimal,elegant gown made of khadi suitable for vacation,travel during autumn season from Pochampally.",
+    "rating": 4.7,
+    "weaver_name": "GramVastra",
+    "product_id": "D102",
+    "occasions": "vacation,travel",
+    "matching_percentage": 57.97,
+    "raw_distance": 0.8406,
+    "extracted_attributes": {
+      "suitable_body_types": [
+        "pear"
+      ],
+      "suitable_skin_tones": [
+        "olive"
+      ],
+      "occasions": [
+        "wedding"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "places": [
+        "beach"
+      ],
+      "styles": [
+        "boho"
+      ],
+      "fabric": [
+        "linen",
+        "cotton"
+      ],
+      "colors": [
+        "black",
+        "yellow",
+        "teal"
+      ]
+    }
+  },
+  {
+    "seasons": "autumn",
+    "suitable_skin_tones": "light",
+    "product_id": "D102",
+    "occasions": "vacation,travel",
+    "suitable_body_types": "pear",
+    "colors": "black,blue",
+    "rating": 4.7,
+    "fabric": "khadi",
+    "styles": "minimal,elegant",
+    "semantic_text": "minimal,elegant gown made of khadi suitable for vacation,travel during autumn season from Pochampally.",
+    "origin": "Pochampally",
+    "category": "Gown",
+    "name": "Outfit 2",
+    "price": 3201,
+    "weaver_name": "GramVastra",
+    "places": "indoor",
+    "gender": "Female",
+    "matching_percentage": 57.97,
+    "raw_distance": 0.8406,
+    "extracted_attributes": {
+      "suitable_body_types": [
+        "pear"
+      ],
+      "suitable_skin_tones": [
+        "olive"
+      ],
+      "occasions": [
+        "wedding"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "places": [
+        "beach"
+      ],
+      "styles": [
+        "boho"
+      ],
+      "fabric": [
+        "linen",
+        "cotton"
+      ],
+      "colors": [
+        "black",
+        "yellow",
+        "teal"
+      ]
+    }
+  },
+  {
+    "colors": "yellow,pink",
+    "product_id": "D146",
+    "fabric": "silk",
+    "semantic_text": "casual,minimal jacket made of silk suitable for college,wedding during autumn season from Kolkata.",
+    "name": "Outfit 46",
+    "rating": 4.9,
+    "seasons": "autumn",
+    "suitable_body_types": "pear",
+    "price": 1428,
+    "gender": "Male",
+    "category": "Jacket",
+    "origin": "Kolkata",
+    "styles": "casual,minimal",
+    "places": "outdoor",
+    "weaver_name": "GramVastra",
+    "occasions": "college,wedding",
+    "suitable_skin_tones": "all",
+    "matching_percentage": 56.28,
+    "raw_distance": 0.8744,
+    "extracted_attributes": {
+      "suitable_body_types": [
+        "pear"
+      ],
+      "suitable_skin_tones": [
+        "olive"
+      ],
+      "occasions": [
+        "wedding"
+      ],
+      "seasons": [
+        "summer"
+      ],
+      "places": [
+        "beach"
+      ],
+      "styles": [
+        "boho"
+      ],
+      "fabric": [
+        "linen",
+        "cotton"
+      ],
+      "colors": [
+        "black",
+        "yellow",
+        "teal"
+      ]
+    }
+  }
+]
